@@ -14,4 +14,4 @@ Tabling for now. Need to improve my api calls with React. To that end, see the [
 ## Associated Links
 [React Front End Java Back End](https://trello.com/c/5iSKymvx/582-react-front-end-java-back-end) Trello card.
 
-[API Professional Development](https://trello.com/c/NFRSx1Q6/171-api-professional-development) Trello card.
+[API Professional Development](https://trello.com/c/NFRSx1Q6/171-api-professional-development) Trello card. Keep this here until the front end api calls are mad successfully.
