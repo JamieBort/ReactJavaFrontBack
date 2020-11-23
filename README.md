@@ -3,7 +3,7 @@ The end goal is to have a React front end making calls to a Java back end.
 
 ## Status
 Just started this project.
-Tabling for now. Need to improve my api calls with React. To that end, see the [Consuming REST APIs In React With Fetch And Axios](https://trello.com/c/6JIDc2mT/585-consuming-rest-apis-in-react-with-fetch-and-axios) Trello card. (also listed in the [Associated Links](https://github.com/JamieBort/ReactJavaFrontBack#associated-links) section below)
+Tabling for now. Need to improve my api calls with React. To that end, see the [Consuming REST APIs In React With Fetch And Axios](https://trello.com/c/6JIDc2mT/585-consuming-rest-apis-in-react-with-fetch-and-axios) Trello card. (Otherwise try the other API resources found in the `API Professional Development` Trello card listed in the [Associated Links](https://github.com/JamieBort/ReactJavaFrontBack#associated-links) section below)
 
 ## To Do
 1. Create FrontEnd and BackEnd directories.
@@ -14,4 +14,4 @@ Tabling for now. Need to improve my api calls with React. To that end, see the [
 ## Associated Links
 [React Front End Java Back End](https://trello.com/c/5iSKymvx/582-react-front-end-java-back-end) Trello card.
 
-[Consuming REST APIs In React With Fetch And Axios](https://trello.com/c/6JIDc2mT/585-consuming-rest-apis-in-react-with-fetch-and-axios) Trello card.
+[API Professional Development](https://trello.com/c/NFRSx1Q6/171-api-professional-development) Trello card.
